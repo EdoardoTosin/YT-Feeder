@@ -27,4 +27,4 @@ _IMPORTANT: Arguments must be 24 (channel\_id) or 34 (playlist\_id) characters l
     - [Playlist Feed](https://www.youtube.com/feeds/videos.xml?playlist_id=PLuhl9TnQPDCnWIhy_KSbtFwXVQnNvgfSh)
 
 ## License
-This software is released under the terms of the GNU General Public License v3.0. See the [LICENSE](https://github.com/EdoardoTosin/ZooMeeting-Redirector/tree/main/LICENSE) file for further information.
+This software is released under the terms of the GNU General Public License v3.0. See the [LICENSE](https://github.com/EdoardoTosin/YT-Feeder/tree/main/LICENSE) file for further information.
