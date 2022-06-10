@@ -8,12 +8,12 @@ Simple python script that extracts channel/playlist name and publish date-time.
 
 ### Linux
 - `git clone https://github.com/EdoardoTosin/YT-Feeder.git`
-- `cd YT-Feeder/src && pip install -r requirements.txt`
+- `cd YT-Feeder/src && python3 -m pip install -r requirements.txt`
 - Example: `python3 main.py UCX6OQ3DkcsbYNE6H8uQQuVA PLoSWVnSA9vG-6geT_u92P9ttBfRLVFhLH`
 
 ### Windows
 - `git clone https://github.com/EdoardoTosin/YT-Feeder.git`
-- `cd YT-Feeder\src; pip install -r requirements.txt`
+- `cd YT-Feeder\src; python -m pip install -r requirements.txt`
 - Example: `python main.py UCX6OQ3DkcsbYNE6H8uQQuVA PLoSWVnSA9vG-6geT_u92P9ttBfRLVFhLH`
 
 _IMPORTANT: Arguments must be 24 (channel\_id) or 34 (playlist\_id) characters long._
